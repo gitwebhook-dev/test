@@ -1,0 +1,20 @@
+{
+  "developGroupId": "7aac0030-2de0-446b-a514-c7ab8330e8c8",
+  "uatGroupId": "898bb64b-8707-414d-a35a-3c5a1c7b192d",
+  "reports": [
+    {
+      "reportPath": "Sales",
+      "developReportId": "34747df6-df15-4b4c-ac87-0299800eeefb",
+      "developContainerId": 81,
+      "uatReportId": "1",
+      "uatContainerId": 81
+    },
+    {
+      "reportPath": "Report",
+      "developReportId": "2ed52da1-c849-4509-8d52-8d3157eb9831",
+      "developContainerId": 81,
+      "uatReportId": "1",
+      "uatContainerId": 81
+    }
+  ]
+}
