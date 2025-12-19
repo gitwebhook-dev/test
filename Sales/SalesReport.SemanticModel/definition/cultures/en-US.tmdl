@@ -119,7 +119,7 @@ cultureInfo en-US
 			      "State": "Generated",
 			      "Terms": [
 			        {
-			          "Online Sales": {
+			          "Social Media Sales": {
 			            "State": "Suggested",
 			            "Source": {
 			              "Type": "External",
@@ -129,7 +129,7 @@ cultureInfo en-US
 			          }
 			        },
 			        {
-			          "Social Media Sales": {
+			          "Online Sales": {
 			            "State": "Suggested",
 			            "Source": {
 			              "Type": "External",

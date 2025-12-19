@@ -130,7 +130,10 @@
           "zIndex": 10
         },
         {
-          "location": {},
+          "location": {
+            "x": 2352,
+            "y": 203.7847974387376
+          },
           "nodeIndex": "Table (2)",
           "nodeLineageTag": "abaf9773-3907-4348-af50-e63144c82f8d",
           "size": {
@@ -140,7 +143,10 @@
           "zIndex": 0
         },
         {
-          "location": {},
+          "location": {
+            "x": 2636,
+            "y": 203.7847974387376
+          },
           "nodeIndex": "Table (3)",
           "nodeLineageTag": "4ac4e495-12cd-492b-9751-3c20b2401f54",
           "size": {
@@ -150,7 +156,10 @@
           "zIndex": 0
         },
         {
-          "location": {},
+          "location": {
+            "x": 2920,
+            "y": 203.7847974387376
+          },
           "nodeIndex": "Table (4)",
           "nodeLineageTag": "cfe02dac-373b-4e96-9750-0f78d36cd49c",
           "size": {
@@ -160,7 +169,10 @@
           "zIndex": 0
         },
         {
-          "location": {},
+          "location": {
+            "x": 3204,
+            "y": 203.7847974387376
+          },
           "nodeIndex": "Table (5)",
           "nodeLineageTag": "7f7e1370-97b5-40ea-9a2c-d966f0863b3a",
           "size": {
