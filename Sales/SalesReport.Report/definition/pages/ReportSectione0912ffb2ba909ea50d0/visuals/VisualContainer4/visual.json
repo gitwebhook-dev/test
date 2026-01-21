@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.5.0/schema.json",
   "name": "VisualContainer4",
   "position": {
-    "x": 522.75204359673023,
-    "y": 187.02906448683015,
+    "x": 242.69270842057654,
+    "y": 196.07377007990081,
     "z": 34000,
-    "height": 235.81925522252496,
-    "width": 724.88283378746587
+    "height": 235.83698219400659,
+    "width": 725.33583477110164
   },
   "visual": {
     "visualType": "barChart",
@@ -787,6 +787,48 @@
           ]
         },
         "howCreated": "User"
+      },
+      {
+        "name": "9c5120514201ba09d026",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Product"
+              }
+            },
+            "Property": "Product"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "1012f65299b8e3a2be52",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Category"
+              }
+            },
+            "Property": "Channel"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "92cb857b37207d303209",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "SalesFact"
+              }
+            },
+            "Property": "Total Category Volume"
+          }
+        },
+        "type": "Advanced"
       }
     ]
   }
